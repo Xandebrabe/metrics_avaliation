@@ -1,0 +1,5 @@
+C:\Users\Inteli\source\repos\metrics_application\metrics_application\obj\Debug\net8.0\metrics_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\source\repos\metrics_application\metrics_application\obj\Debug\net8.0\metrics_application.AssemblyInfoInputs.cache
+C:\Users\Inteli\source\repos\metrics_application\metrics_application\obj\Debug\net8.0\metrics_application.AssemblyInfo.cs
+C:\Users\Inteli\source\repos\metrics_application\metrics_application\obj\Debug\net8.0\metrics_application.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\source\repos\metrics_application\metrics_application\obj\Debug\net8.0\metrics_application.MvcApplicationPartsAssemblyInfo.cache
