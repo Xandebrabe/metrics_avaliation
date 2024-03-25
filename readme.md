@@ -5,6 +5,10 @@ OpenTelemetry é um conjunto de APIs, bibliotecas e ferramentas que proporcionam
 
 ## Prints com as execuções
 
+### Aplicação rodando
+
+![](./assets/app_running.png)
+
 ### Prometheus
 
 ![](./assets/prometheus.png)
