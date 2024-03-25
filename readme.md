@@ -15,6 +15,14 @@ OpenTelemetry é um conjunto de APIs, bibliotecas e ferramentas que proporcionam
 
 Visualização do Prometheus permite contabilizar a quantidade de vezes que a rota foi acessada.
 
+### Grafana
+
+![](./assets/grafana.png)
+
+
+O Grafana é uma plataforma de análise e monitoramento de código aberto amplamente utilizada para visualizar uma grande variedade de dados em tempo real, bem como métricas operacionais. A partir do dashboard gerado conseguimos visualizar métricas de acesso ao site.
+
+
 
 ## Métricas Performadas
 
