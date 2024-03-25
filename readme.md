@@ -11,7 +11,7 @@ OpenTelemetry é um conjunto de APIs, bibliotecas e ferramentas que proporcionam
 
 ### Prometheus
 
-![](./assets/prometheus.png)
+![](./assets/prometheus_.png)
 
 Visualização do Prometheus permite contabilizar a quantidade de vezes que a rota foi acessada.
 
