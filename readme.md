@@ -197,4 +197,4 @@ http_server_request_duration_s_count{aspnetcore_request_is_unhandled="True",http
 
 ## Aprendizados
 
-A partir das métricas coletadas conseguimos realizar diversos insights interessantes diante da aplicação, inclusive como pode afetar nas regras de negócio, etc.
+A partir das métricas coletadas conseguimos realizar diversos insights interessantes diante da aplicação, inclusive posteriormente realizar a exportação de relatórios frequentes visando o impacto no negócio, etc.
